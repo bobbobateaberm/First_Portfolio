@@ -1,8 +1,8 @@
-# Phunipith's Portfolio
+# Phunipith's Portfolio ( June 2024 )
 
 Welcome to my personal portfolio! I'm Phunnipath Theankaew (Nice), a passionate student and aspiring developer. This repository houses the code for my personal website, where I share my journey, projects, and experiences.
 
-## 🚀 About Me
+## About Me
 
 I have a keen interest in technology and have been honing my skills in various programming languages and tools. Over the past year, I've delved into:
 
@@ -12,7 +12,7 @@ I have a keen interest in technology and have been honing my skills in various p
 
 Beyond coding, I have a flair for media and extracurricular activities, which I believe adds a creative edge to my technical skills.
 
-## 📚 Education
+## Education
 
 - **Yothinburana School** (English Program)
   - GPAX (1-3): 3.76
@@ -21,7 +21,7 @@ Beyond coding, I have a flair for media and extracurricular activities, which I 
 - **Chonprathanwittaya School** (English Program)
   - GPAX (4-6): 4.00
 
-## 💼 Projects & Experience
+## Projects & Experience
 
 ### Coding Projects
 
@@ -41,11 +41,11 @@ Beyond coding, I have a flair for media and extracurricular activities, which I 
 - **Premiere Pro**: Edited videos for both visual and audio elements for school projects.
 - **Kinemaster**: Used for mobile video editing, showcasing versatility in media tools.
 
-## 🎮 YouTube Channel
+## YouTube Channel
 
 I run a YouTube channel focused on modding Grand Theft Auto V. The channel has garnered over 500k views, and I've earned approximately 6,000 THB through it. You can check it out here: [Phunipith's YouTube Channel](https://www.youtube.com/channel/UC123456789)
 
-## 🛠️ 3D Modeling & Retexturing
+## 3D Modeling & Retexturing
 
 In my free time, I engage in 3D modeling and retexturing, primarily for war-themed video games. Some of my works include:
 
@@ -54,11 +54,11 @@ In my free time, I engage in 3D modeling and retexturing, primarily for war-them
 - **Uzi Gun Normal Texture**: Applied complex retexturing techniques.
 - **Royal Thai Army Uniform Mod**: Created and refined a realistic uniform mod.
 
-## ⚽ Extracurricular Activities
+## Extracurricular Activities
 
 I actively participate in football, serving as a goalkeeper and forward reserve player for my school team, 'YB City'. Sports help me develop teamwork and leadership skills.
 
-## 🌐 Visit My Portfolio
+## Visit My Portfolio
 
 Explore my full portfolio at: [https://portfoliophunipith.vercel.app](https://portfoliophunipith.vercel.app)
 
